@@ -1,0 +1,1 @@
+delete_root_ca.sh
